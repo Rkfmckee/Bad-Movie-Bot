@@ -1,0 +1,6 @@
+Some useful commands for python and pip:
+- 'pipreqs' module is useful for auto-generating a requirements.txt based off import statements (pip install pipreqs).
+	- Use command 'pipreqs <directory>' to generate the file in the specified <directory>
+
+- pip install -r requirements.txt
+	- Install all the modules listed in requirements.txt.
